@@ -1,5 +1,5 @@
-.BLUE {
-  background: #5B7FB3;
+.GREEN {
+  background: #2E2C1F;
 }
 
 .BROWN .nav-link {
@@ -13,4 +13,21 @@
 
 .BROWN .nav-link:hover {
   text-decoration: underline;
+}
+.BG .row img {
+  width: 1000px;
+}
+
+.BG {
+  /* The image used */
+  background-image: url("https://i.pinimg.com/originals/60/62/77/606277c71aee5a0a09db2c029da95744.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
 }
