@@ -14,7 +14,7 @@ Overall comments on grading questions:
 2) Are the pages reasonably structured with HTML?
     - For the most part, yes.
     - Some lists are marked up as paragraphs (in voting.html and registration.html).
-    - Some lists that don't contain any navigation are stored in <nav> tags (in absentee.html).
+    - Some lists that don't contain any navigation are stored in nav tags (in absentee.html).
 
 3) Are the pages tolerably styled with Bootstrap?
-    - Yes. Looks nice.
+    - Yes. Looks nice!
